@@ -1,0 +1,25 @@
+
+
+To install it you need to : 
+
+1. add .env file
+2. copy .env-sample to .env
+3. run : php artisan key:generate
+4. run : composer install
+5. run : php artisan migrate OR php artisan migrate:fresh
+6. run : php artisan db:seed --class=SettingsSeeder
+7. run : npm run watch
+8. run : php artisan storage:link
+9. edit base url in : public\js\app.js
+
+
+10. run: php artisan serve (optional)
+
+
+To connect : 
+Email : doctor@gmail.com 
+password : doctorino
+
+
+That's All.
+Feel free to contact-us in the comments for any help 
