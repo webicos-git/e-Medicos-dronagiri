@@ -1,6 +1,6 @@
 
 
-To install it you need to : 
+--To install it you need to : 
 
 1. add .env file
 2. copy .env-sample to .env
