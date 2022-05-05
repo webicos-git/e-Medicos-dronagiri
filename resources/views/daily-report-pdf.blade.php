@@ -29,7 +29,7 @@
     
     <p>Report generated for : {{ $date }}</p>
     
-    <p style="text-align: center; font-weight: bold">Daily Patient/p>
+    <p style="text-align: center; font-weight: bold">Daily Patient Report </p>
 
     <table id="dataTable" width="100%">
         <thead>
